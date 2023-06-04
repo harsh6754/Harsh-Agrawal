@@ -26,6 +26,6 @@
   <img align="center" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?theme=radical&username=harsh6754&show_icons=true&include_all_commits=true" />
 </a>
 <a href=" https://github.com/harsh6754">
-  <img align="center" alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?theme=radical&username=harsh6754&layout=compact" />
+  <img align="center" alt="" src="https://github-readme-stats.vercel.app/api/top-langs/?theme=radical&username=harsh6754&layout=compact" />
 </a>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=harsh6754&" alt="harsh agrawal" /></p>
