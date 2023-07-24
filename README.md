@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Atharva Deshmukh</h1>
+<h1 align="center">Hi 👋, I'm Harsh Agrawal</h1>
 <h3 align="center">A passionate and upcoming MERN stack developer from India</h3>
 
 
@@ -6,21 +6,21 @@
 
 - 🤝 I’m looking for help with **WEB APPS**
 
-- 👨‍💻 All of my projects are available at [https://atharva3000-portfolio.netlify.app/](https://atharva3000-portfolio.netlify.app/)
+- 👨‍💻 All of my projects are available at [https://github.com/harsh6754])
 
 - 💬 Ask me about **web development and Web3. 💜**
   
 - 👐 Currently **Learning Flutter. 💙**
 
-- 📫 How to reach me **deshmukhsambhajirao9@gmail.com**
+- 📫 How to reach me **agarwalharsh6583@gmail.com**
 
 - ⚡ Fun fact **I am constantly learning and suffering from imposter syndrome.**
 
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=atharva-3000&label=Profile%20views&color=0e75b6&style=flat" alt="atharva-3000" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=harsh6754&label=Profile%20views&color=0e75b6&style=flat" alt="harsh6754" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=atharva-3000" alt="atharva-3000" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=harsh6754" alt="harsh6754" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/powxu_xd" target="blank"><img src="https://img.shields.io/twitter/follow/powxu_xd?logo=twitter&style=for-the-badge" alt="powxu_xd" /></a> </p>
 
