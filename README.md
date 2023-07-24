@@ -22,7 +22,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=harsh6754" alt="harsh6754" /></a> </p>
 
-<p align="left"> <a href=" https://twitter.com/HarshAg62381240" target="blank"><img src="https://img.shields.io/twitter/follow/powxu_xd?logo=twitter&style=for-the-badge" alt="powxu_xd" /></a> </p>
+<p align="left"> <a href=" https://twitter.com/HarshAg62381240" target="blank"><img src="https://img.shields.io/twitter/follow/HarshAg62381240?logo=twitter&style=for-the-badge" alt="https://twitter.comHarshAg62381240" /></a> </p>
 
 
 <h3 align="left">Connect with me:</h3>
